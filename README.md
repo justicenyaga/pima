@@ -1,7 +1,9 @@
 # Pima - Class Assignment
+
 ### Activity
+
 <ol>
-  <li> Download the attached CSV file `pimadataset.csv`</li>
+  <li> Download the attached CSV file - <b> <i> pimadataset.csv </i> </b> </li>
   <li> Import the file into python DataFrame </li>
   <li> Preprocess the dataset by:
     <ol type="a">
@@ -20,3 +22,4 @@
     </ol>
   </li>
   <li> Suggest ways of improving the model accuracy, sensitivity and precision. </li>
+</ol>
